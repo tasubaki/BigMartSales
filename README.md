@@ -1,4 +1,4 @@
-# Using a model to predict the sales of products in the store
+## Using a model to predict the sales of products in the store
 
 ● For this project, BigMart Sales Data on Kaggle is used to process and build a forecast model. This data source collected sales data for 1559 products across 10 stores in different cities in 2013.
 
